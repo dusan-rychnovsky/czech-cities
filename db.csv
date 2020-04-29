@@ -1,608 +1,608 @@
-id,mesto,pocet-obyvatel,rozloha,okres
-1,Praha,1308632,496,Praha
-2,Brno,380681,230,okres Brno-město
-3,Ostrava,289128,214,okres Ostrava-město
-4,Plzeň,172441,137,okres Plzeň-město
-5,Liberec,104445,106,okres Liberec
-6,Olomouc,100523,103,okres Olomouc
-7,České Budějovice,94014,55,okres České Budějovice
-8,Ústí nad Labem,92952,93,okres Ústí nad Labem
-9,Hradec Králové,92742,105,okres Hradec Králové
-10,Pardubice,90688,82,okres Pardubice
-11,Zlín,74997,102,okres Zlín
-12,Havířov,71903,32,okres Karviná
-13,Kladno,69054,36,okres Kladno
-14,Most,66186,86,okres Most
-15,Opava,56638,90,okres Opava
-16,Frýdek-Místek,55931,51,okres Frýdek-Místek
-17,Karviná,52824,57,okres Karviná
-18,Jihlava,50845,87,okres Jihlava
-19,Teplice,49575,23,okres Teplice
-20,Děčín,48809,117,okres Děčín
-21,Chomutov,48720,29,okres Chomutov
-22,Karlovy Vary,48501,59,okres Karlovy Vary
-23,Jablonec nad Nisou,45802,31,okres Jablonec nad Nisou
-24,Mladá Boleslav,44489,28,okres Mladá Boleslav
-25,Prostějov,43680,39,okres Prostějov
-26,Přerov,43186,58,okres Přerov
-27,Česká Lípa,37444,66,okres Česká Lípa
-28,Třebíč,35691,57,okres Třebíč
-29,Třinec,35131,85,okres Frýdek-Místek
-30,Tábor,34456,62,okres Tábor
-31,Znojmo,33780,65,okres Znojmo
-32,Příbram,32642,33,okres Příbram
-33,Cheb,31988,96,okres Cheb
-34,Kolín,31690,34,okres Kolín
-35,Trutnov,30372,103,okres Trutnov
-36,Písek,30351,63,okres Písek
-37,Orlová,28852,24,okres Karviná
-38,Kroměříž,28816,50,okres Kroměříž
-39,Vsetín,26092,57,okres Vsetín
-40,Šumperk,25957,27,okres Šumperk
-41,Uherské Hradiště,25212,21,okres Uherské Hradiště
-42,Břeclav,24704,77,okres Břeclav
-43,Hodonín,24682,63,okres Hodonín
-44,Český Těšín,24438,33,okres Karviná
-45,Litoměřice,24001,17,okres Litoměřice
-46,Litvínov,23884,40,okres Most
-47,Nový Jičín,23496,36,okres Nový Jičín
-48,Krnov,23397,44,okres Bruntál
-49,Havlíčkův Brod,23256,64,okres Havlíčkův Brod
-50,Sokolov,23241,22,okres Sokolov
-51,Chrudim,23151,33,okres Chrudim
-52,Strakonice,22754,34,okres Strakonice
-53,Klatovy,22233,80,okres Klatovy
-54,Valašské Meziříčí,22217,35,okres Vsetín
-55,Kopřivnice,21949,27,okres Nový Jičín
-56,Jindřichův Hradec,21445,74,okres Jindřichův Hradec
-57,Vyškov,20883,50,okres Vyškov
-58,Žďár nad Sázavou,20847,37,okres Žďár nad Sázavou
-59,Bohumín,20690,31,okres Karviná
-60,Kutná Hora,20580,33,okres Kutná Hora
-61,Blansko,20572,44,okres Blansko
-62,Náchod,19979,33,okres Náchod
-63,Beroun,19510,31,okres Beroun
-64,Mělník,19486,24,okres Mělník
-65,Jirkov,19299,17,okres Chomutov
-66,Brandýs nad Labem-Stará Boleslav,19136,22,okres Praha-východ
-67,Žatec,19133,42,okres Louny
-68,Louny,18351,24,okres Louny
-69,Kadaň,18202,65,okres Chomutov
-70,Kralupy nad Vltavou,18194,21,okres Mělník
-71,Hranice,18057,49,okres Přerov
-72,Otrokovice,17876,19,okres Zlín
-73,Bílina,17166,32,okres Teplice
-74,Svitavy,16838,31,okres Svitavy
-75,Ostrov,16731,50,okres Karlovy Vary
-76,Benešov,16656,46,okres Benešov
-77,Jičín,16577,24,okres Jičín
-78,Uherský Brod,16493,52,okres Uherské Hradiště
-79,Rožnov pod Radhoštěm,16420,39,okres Vsetín
-80,Bruntál,16408,29,okres Bruntál
-81,Neratovice,16163,20,okres Mělník
-82,Pelhřimov,16069,95,okres Pelhřimov
-83,Rakovník,15846,18,okres Rakovník
-84,Slaný,15834,35,okres Kladno
-85,Říčany,15619,25,okres Praha-východ
-86,Dvůr Králové nad Labem,15594,35,okres Trutnov
-87,Česká Třebová,15508,40,okres Ústí nad Orlicí
-88,Varnsdorf,15297,26,okres Děčín
-89,Nymburk,15063,20,okres Nymburk
-90,Klášterec nad Ohří,14533,53,okres Chomutov
-91,Turnov,14334,22,okres Semily
-92,Ústí nad Orlicí,14196,36,okres Ústí nad Orlicí
-93,Rokycany,14192,30,okres Rokycany
-94,Poděbrady,14186,33,okres Nymburk
-95,Hlučín,13953,21,okres Opava
-96,Zábřeh,13589,34,okres Šumperk
-97,Šternberk,13495,48,okres Olomouc
-98,Chodov,13394,14,okres Sokolov
-99,Aš,13210,55,okres Cheb
-100,Český Krumlov,13085,22,okres Český Krumlov
-101,Roudnice nad Labem,12967,16,okres Litoměřice
-102,Tachov,12802,40,okres Tachov
-103,Mariánské Lázně,12800,51,okres Cheb
-104,Krupka,12624,46,okres Teplice
-105,Vrchlabí,12461,27,okres Trutnov
-106,Jaroměř,12433,23,okres Náchod
-107,Vysoké Mýto,12335,42,okres Ústí nad Orlicí
-108,Čelákovice,12260,15,okres Praha-východ
-109,Milovice,11834,28,okres Nymburk
-110,Nový Bor,11678,19,okres Česká Lípa
-111,Boskovice,11622,27,okres Blansko
-112,Holešov,11606,33,okres Kroměříž
-113,Vlašim,11598,41,okres Benešov
-114,Velké Meziříčí,11484,40,okres Žďár nad Sázavou
-115,Uničov,11396,48,okres Olomouc
-116,Kyjov,11218,29,okres Hodonín
-117,Jeseník,11192,38,okres Jeseník
-118,Domažlice,11150,24,okres Domažlice
-119,Sušice,11110,45,okres Klatovy
-120,Rumburk,11082,24,okres Děčín
-121,Veselí nad Moravou,11006,35,okres Hodonín
-122,Rychnov nad Kněžnou,10998,34,okres Rychnov nad Kněžnou
-123,Kuřim,10997,17,okres Brno-venkov
-124,Humpolec,10894,51,okres Pelhřimov
-125,Prachatice,10874,38,okres Prachatice
-126,Frenštát pod Radhoštěm,10820,11,okres Nový Jičín
-127,Litomyšl,10429,33,okres Svitavy
-128,Čáslav,10326,26,okres Kutná Hora
-129,Nové Město na Moravě,10098,61,okres Žďár nad Sázavou
-130,Moravská Třebová,10070,42,okres Svitavy
-131,Lanškroun,9991,20,okres Ústí nad Orlicí
-132,Frýdlant nad Ostravicí,9964,21,okres Frýdek-Místek
-133,Litovel,9810,46,okres Olomouc
-134,Ivančice,9742,47,okres Brno-venkov
-135,Lysá nad Labem,9717,33,okres Nymburk
-136,Hlinsko,9677,24,okres Chrudim
-137,Přelouč,9659,30,okres Pardubice
-138,Studénka,9536,30,okres Nový Jičín
-139,Jesenice,9448,17,okres Praha-západ
-140,Nové Město nad Metují,9436,23,okres Náchod
-141,Králův Dvůr,9357,15,okres Beroun
-142,Tišnov,9257,17,okres Brno-venkov
-143,Chotěboř,9250,54,okres Havlíčkův Brod
-144,Mohelnice,9189,46,okres Šumperk
-145,Nová Paka,9094,28,okres Jičín
-146,Dobříš,8983,53,okres Příbram
-147,Lovosice,8837,11,okres Litoměřice
-148,Polička,8748,33,okres Svitavy
-149,Mnichovo Hradiště,8729,34,okres Mladá Boleslav
-150,Štětí,8685,53,okres Litoměřice
-151,Choceň,8646,21,okres Ústí nad Orlicí
-152,Hořice,8621,21,okres Jičín
-153,Hostivice,8546,14,okres Praha-západ
-154,Roztoky,8529,8,okres Praha-západ
-155,Duchcov,8517,15,okres Teplice
-156,Příbor,8452,22,okres Nový Jičín
-157,Semily,8367,16,okres Semily
-158,Červený Kostelec,8352,24,okres Náchod
-159,Milevsko,8277,42,okres Písek
-160,Třeboň,8253,98,okres Jindřichův Hradec
-161,Rýmařov,8247,60,okres Bruntál
-162,Bystřice pod Hostýnem,8169,26,okres Kroměříž
-163,Bystřice nad Pernštejnem,8110,53,okres Žďár nad Sázavou
-164,Lipník nad Bečvou,8024,30,okres Přerov
-165,Týn nad Vltavou,8000,43,okres České Budějovice
-166,Dubí,7870,33,okres Teplice
-167,Nejdek,7807,52,okres Karlovy Vary
-168,Hrádek nad Nisou,7722,48,okres Liberec
-169,Stříbro,7680,47,okres Tachov
-170,Šlapanice,7563,14,okres Brno-venkov
-171,Frýdlant,7531,31,okres Liberec
-172,Rychvald,7457,17,okres Karviná
-173,Broumov,7444,22,okres Náchod
-174,Bílovec,7419,38,okres Nový Jičín
-175,Benátky nad Jizerou,7418,35,okres Mladá Boleslav
-176,Vimperk,7399,80,okres Prachatice
-177,Moravské Budějovice,7364,37,okres Třebíč
-178,Mikulov,7359,45,okres Břeclav
-179,Dačice,7325,66,okres Jindřichův Hradec
-180,Vratimov,7297,14,okres Ostrava-město
-181,Sezimovo Ústí,7257,8,okres Tábor
-182,Odry,7227,74,okres Nový Jičín
-183,Napajedla,7222,19,okres Zlín
-184,Petřvald,7190,12,okres Karviná
-185,Černošice,7170,9,okres Praha-západ
-186,Kaplice,7164,40,okres Český Krumlov
-187,Přeštice,7114,25,okres Plzeň-jih
-188,Sedlčany,7080,36,okres Příbram
-189,Český Brod,7046,19,okres Kolín
-190,Nový Bydžov,6986,35,okres Hradec Králové
-191,Nýřany,6975,22,okres Plzeň-sever
-192,Soběslav,6968,19,okres Tábor
-193,Vodňany,6953,36,okres Strakonice
-194,Hořovice,6844,9,okres Beroun
-195,Hulín,6819,32,okres Kroměříž
-196,Kraslice,6749,81,okres Sokolov
-197,Letovice,6745,51,okres Blansko
-198,Úvaly,6744,10,okres Praha-východ
-199,Dobruška,6727,34,okres Rychnov nad Kněžnou
-200,Kravaře,6695,19,okres Opava
-201,Slavkov u Brna,6694,14,okres Vyškov
-202,Staré Město,6652,20,okres Uherské Hradiště
-203,Blatná,6583,43,okres Strakonice
-204,Holice,6574,19,okres Pardubice
-205,Světlá nad Sázavou,6566,42,okres Havlíčkův Brod
-206,Bučovice,6496,31,okres Vyškov
-207,Slavičín,6468,33,okres Zlín
-208,Mimoň,6434,15,okres Česká Lípa
-209,Letohrad,6402,23,okres Ústí nad Orlicí
-210,Šenov,6400,16,okres Ostrava-město
-211,Podbořany,6368,60,okres Louny
-212,Veselí nad Lužnicí,6367,29,okres Tábor
-213,Dubňany,6349,22,okres Hodonín
-214,Chrastava,6281,27,okres Liberec
-215,Tanvald,6252,12,okres Jablonec nad Nisou
-216,Rosice,6237,12,okres Brno-venkov
-217,Kostelec nad Orlicí,6201,26,okres Rychnov nad Kněžnou
-218,Dobřany,6154,35,okres Plzeň-jih
-219,Hronov,6125,22,okres Náchod
-220,Žamberk,6104,16,okres Ústí nad Orlicí
-221,Kojetín,6103,31,okres Přerov
-222,Železný Brod,6069,22,okres Jablonec nad Nisou
-223,Týniště nad Orlicí,6058,52,okres Rychnov nad Kněžnou
-224,Odolena Voda,6022,11,okres Praha-východ
-225,Hustopeče,5964,24,okres Břeclav
-226,Mníšek pod Brdy,5832,26,okres Praha-západ
-227,Třešť,5766,46,okres Jihlava
-228,Třebechovice pod Orebem,5748,21,okres Hradec Králové
-229,Moravský Krumlov,5729,49,okres Znojmo
-230,Vítkov,5725,55,okres Opava
-231,Týnec nad Sázavou,5715,25,okres Benešov
-232,Rousínov,5673,23,okres Vyškov
-233,Úpice,5661,15,okres Trutnov
-234,Fulnek,5656,68,okres Nový Jičín
-235,Šluknov,5615,47,okres Děčín
-236,Kunovice,5606,28,okres Uherské Hradiště
-237,Strážnice,5560,31,okres Hodonín
-238,Jablunkov,5547,10,okres Frýdek-Místek
-239,Lomnice nad Popelkou,5541,25,okres Semily
-240,Brumov-Bylnice,5540,56,okres Zlín
-241,Zubří,5540,28,okres Vsetín
-242,Nové Strašecí,5517,13,okres Rakovník
-243,Františkovy Lázně,5514,25,okres Cheb
-244,Hradec nad Moravicí,5489,43,okres Opava
-245,Chlumec nad Cidlinou,5462,21,okres Hradec Králové
-246,Stochov,5416,9,okres Kladno
-247,Horní Slavkov,5414,36,okres Sokolov
-248,Planá,5413,62,okres Tachov
-249,Hluboká nad Vltavou,5410,91,okres České Budějovice
-250,Jilemnice,5391,13,okres Semily
-251,Horažďovice,5310,43,okres Klatovy
-252,Modřice,5296,10,okres Brno-venkov
-253,Telč,5276,24,okres Jihlava
-254,Česká Kamenice,5247,38,okres Děčín
-255,Doksy,5206,74,okres Česká Lípa
-256,Velká Bíteš,5193,47,okres Žďár nad Sázavou
-257,Holýšov,5191,29,okres Domažlice
-258,Kdyně,5169,28,okres Domažlice
-259,Bakov nad Jizerou,5156,27,okres Mladá Boleslav
-260,Trhové Sviny,5154,52,okres České Budějovice
-261,Jílové,5147,36,okres Děčín
-262,Polná,5141,37,okres Jihlava
-263,Rudná,5137,8,okres Praha-západ
-264,Starý Plzenec,5105,18,okres Plzeň-město
-265,Bechyně,5097,21,okres Tábor
-266,Kosmonosy,5093,11,okres Mladá Boleslav
-267,Česká Skalice,5078,17,okres Náchod
-268,Ledeč nad Sázavou,5074,17,okres Havlíčkův Brod
-269,Pohořelice,5051,43,okres Brno-venkov
-270,Skuteč,5046,35,okres Chrudim
-271,Luhačovice,5045,32,okres Zlín
-272,Vrbno pod Pradědem,5040,68,okres Bruntál
-273,Třemošná,5031,18,okres Plzeň-sever
-274,Horšovský Týn,5006,71,okres Domažlice
-275,Valašské Klobouky,4951,26,okres Zlín
-276,Nýrsko,4920,31,okres Klatovy
-277,Chropyně,4889,19,okres Kroměříž
-278,Náměšť nad Oslavou,4871,18,okres Třebíč
-279,Habartov,4846,21,okres Sokolov
-280,Heřmanův Městec,4835,14,okres Chrudim
-281,Protivín,4830,61,okres Písek
-282,Meziboří,4810,14,okres Most
-283,Vizovice,4800,28,okres Zlín
-284,Kynšperk nad Ohří,4789,23,okres Sokolov
-285,Bělá pod Bezdězem,4786,63,okres Mladá Boleslav
-286,Unhošť,4779,17,okres Kladno
-287,Jílové u Prahy,4770,16,okres Praha-západ
-288,Pečky,4769,10,okres Kolín
-289,Pacov,4758,35,okres Pelhřimov
-290,Osek,4757,42,okres Teplice
-291,Zruč nad Sázavou,4750,16,okres Kutná Hora
-292,Postoloprty,4716,46,okres Louny
-293,Oslavany,4693,18,okres Brno-venkov
-294,Votice,4587,36,okres Benešov
-295,Vracov,4557,44,okres Hodonín
-296,Vamberk,4532,21,okres Rychnov nad Kněžnou
-297,Adamov,4517,3,okres Blansko
-298,Cvikov,4484,45,okres Česká Lípa
-299,Klimkovice,4468,14,okres Ostrava-město
-300,Bystřice,4422,63,okres Benešov
-301,Lišov,4405,93,okres České Budějovice
-302,Bojkovice,4395,41,okres Uherské Hradiště
-303,Chlumec,4380,12,okres Ústí nad Labem
-304,Rožmitál pod Třemšínem,4375,52,okres Příbram
-305,Bzenec,4361,40,okres Hodonín
-306,Hostinné,4361,8,okres Trutnov
-307,Hluk,4340,28,okres Uherské Hradiště
-308,Bor,4306,116,okres Tachov
-309,Kostelec nad Labem,4281,15,okres Mělník
-310,Uherský Ostroh,4267,26,okres Uherské Hradiště
-311,Horní Bříza,4213,14,okres Plzeň-sever
-312,Králíky,4196,52,okres Ústí nad Orlicí
-313,Slatiňany,4187,15,okres Chrudim
-314,Zdice,4179,13,okres Beroun
-315,Borovany,4173,42,okres České Budějovice
-316,Jaroměřice nad Rokytnou,4163,51,okres Třebíč
-317,Nová Role,4161,13,okres Karlovy Vary
-318,Blovice,4140,28,okres Plzeň-jih
-319,Planá nad Lužnicí,4132,21,okres Tábor
-320,Police nad Metují,4086,24,okres Náchod
-321,Dolní Benešov,4043,14,okres Opava
-322,Brušperk,4024,10,okres Frýdek-Místek
-323,Přibyslav,4012,35,okres Havlíčkův Brod
-324,Jemnice,4001,32,okres Třebíč
-325,Stráž pod Ralskem,3977,21,okres Česká Lípa
-326,Sezemice,3945,22,okres Pardubice
-327,Kamenický Šenov,3919,10,okres Česká Lípa
-328,Velké Bílovice,3907,25,okres Břeclav
-329,Velešín,3899,13,okres Český Krumlov
-330,Paskov,3890,11,okres Frýdek-Místek
-331,Větřní,3882,27,okres Český Krumlov
-332,Mnichovice,3861,8,okres Praha-východ
-333,Rajhrad,3852,9,okres Brno-venkov
-334,Židlochovice,3826,5,okres Brno-venkov
-335,Zlaté Hory,3796,85,okres Jeseník
-336,Zbýšov,3784,6,okres Brno-venkov
-337,Volary,3780,107,okres Prachatice
-338,Kamenice nad Lipou,3766,31,okres Pelhřimov
-339,Brtnice,3758,74,okres Jihlava
-340,Smržovka,3751,14,okres Jablonec nad Nisou
-341,Rájec-Jestřebí,3737,15,okres Blansko
-342,Lanžhot,3733,54,okres Břeclav
-343,Nepomuk,3732,12,okres Plzeň-jih
-344,Kostelec nad Černými lesy,3723,17,okres Praha-východ
-345,Sázava,3720,20,okres Benešov
-346,Benešov nad Ploučnicí,3716,9,okres Děčín
-347,Toužim,3705,98,okres Karlovy Vary
-348,Lom,3700,16,okres Most
-349,Fryšták,3697,24,okres Zlín
-350,Velké Opatovice,3685,25,okres Blansko
-351,Dobřichovice,3675,10,okres Praha-západ
-352,Nové Město pod Smrkem,3674,28,okres Liberec
-353,Lázně Bělohrad,3665,28,okres Jičín
-354,Jiříkov,3640,13,okres Děčín
-355,Jablonné v Podještědí,3622,57,okres Liberec
-356,Stod,3589,20,okres Plzeň-jih
-357,Klecany,3589,10,okres Praha-východ
-358,Zliv,3569,14,okres České Budějovice
-359,Valtice,3557,47,okres Břeclav
-360,Město Albrechtice,3529,65,okres Bruntál
-361,Lázně Bohdaneč,3525,21,okres Pardubice
-362,Březnice,3523,19,okres Příbram
-363,Suchdol nad Lužnicí,3522,63,okres Jindřichův Hradec
-364,České Velenice,3521,12,okres Jindřichův Hradec
-365,Kralovice,3504,39,okres Plzeň-sever
-366,Řevnice,3498,10,okres Praha-západ
-367,Libochovice,3496,15,okres Litoměřice
-368,Buštěhrad,3464,7,okres Kladno
-369,Krásná Lípa,3453,31,okres Děčín
-370,Štramberk,3438,9,okres Nový Jičín
-371,Dobrovice,3394,24,okres Mladá Boleslav
-372,Velká Bystřice,3384,9,okres Olomouc
-373,Libčice nad Vltavou,3383,7,okres Praha-západ
-374,Újezd u Brna,3368,13,okres Brno-venkov
-375,Libušín,3346,9,okres Kladno
-376,Trmice,3332,6,okres Ústí nad Labem
-377,Hrušovany nad Jevišovkou,3330,25,okres Znojmo
-378,Staňkov,3317,20,okres Domažlice
-379,Nová Bystřice,3281,81,okres Jindřichův Hradec
-380,Veverská Bítýška,3270,13,okres Brno-venkov
-381,Sadská,3234,16,okres Nymburk
-382,Jablonné nad Orlicí,3189,4,okres Ústí nad Orlicí
-383,Hanušovice,3169,36,okres Šumperk
-384,Košťany,3166,24,okres Teplice
-385,Opočno,3136,14,okres Rychnov nad Kněžnou
-386,Žacléř,3134,21,okres Trutnov
-387,Břidličná,3129,25,okres Bruntál
-388,Uhlířské Janovice,3126,25,okres Kutná Hora
-389,Velké Pavlovice,3119,23,okres Břeclav
-390,Ždírec nad Doubravou,3104,26,okres Havlíčkův Brod
-391,Chrast,3098,17,okres Chrudim
-392,Desná,3086,12,okres Jablonec nad Nisou
-393,Kaznějov,3075,12,okres Plzeň-sever
-394,Třemošnice,3065,19,okres Chrudim
-395,Loket,3055,26,okres Sokolov
-396,Velvary,3044,18,okres Kladno
-397,Volyně,3023,20,okres Strakonice
-398,Podivín,3011,17,okres Břeclav
-399,Rotava,2999,12,okres Sokolov
-400,Rtyně v Podkrkonoší,2997,13,okres Trutnov
-401,Slušovice,2980,7,okres Zlín
-402,Loštice,2979,11,okres Šumperk
-403,Chvaletice,2971,8,okres Pardubice
-404,Moravský Beroun,2957,51,okres Olomouc
-405,Kostelec na Hané,2951,13,okres Prostějov
-406,Teplá,2946,113,okres Cheb
-407,Miroslav,2945,26,okres Znojmo
-408,Hodkovice nad Mohelkou,2944,13,okres Liberec
-409,Ivanovice na Hané,2942,21,okres Vyškov
-410,Morkovice-Slížany,2924,21,okres Kroměříž
-411,Terezín,2924,13,okres Litoměřice
-412,Žirovnice,2921,44,okres Pelhřimov
-413,Budišov nad Budišovkou,2908,79,okres Opava
-414,Úštěk,2901,74,okres Litoměřice
-415,Smiřice,2899,10,okres Hradec Králové
-416,Městec Králové,2877,19,okres Nymburk
-417,Vejprty,2871,9,okres Chomutov
-418,Sedlec-Prčice,2854,64,okres Příbram
-419,Raspenava,2851,41,okres Liberec
-420,Zákupy,2850,40,okres Česká Lípa
-421,Jevíčko,2841,23,okres Svitavy
-422,Hrádek,2831,6,okres Rokycany
-423,Spálené Poříčí,2820,57,okres Plzeň-jih
-424,Kunštát,2787,24,okres Blansko
-425,Konice,2784,24,okres Prostějov
-426,Javorník,2768,77,okres Jeseník
-427,Dolní Bousov,2761,24,okres Mladá Boleslav
-428,Koryčany,2756,41,okres Kroměříž
-429,Český Dub,2752,22,okres Liberec
-430,Rychnov u Jablonce nad Nisou,2749,12,okres Jablonec nad Nisou
-431,Březová,2725,59,okres Sokolov
-432,Hejnice,2721,38,okres Liberec
-433,Plasy,2715,57,okres Plzeň-sever
-434,Mladá Vožice,2704,31,okres Tábor
-435,Kelč,2689,27,okres Vsetín
-436,Golčův Jeníkov,2673,27,okres Havlíčkův Brod
-437,Velké Hamry,2650,9,okres Jablonec nad Nisou
-438,Rokytnice nad Jizerou,2640,36,okres Semily
-439,Neveklov,2638,54,okres Benešov
-440,Vyšší Brod,2621,69,okres Český Krumlov
-441,Nové Sedlo,2599,16,okres Sokolov
-442,Netolice,2587,26,okres Prachatice
-443,Luže,2560,30,okres Chrudim
-444,Počátky,2551,30,okres Pelhřimov
-445,Rudolfov,2544,3,okres České Budějovice
-446,Karolinka,2528,42,okres Vsetín
-447,Nové Hrady,2524,79,okres České Budějovice
-448,Chabařovice,2518,16,okres Ústí nad Labem
-449,Jáchymov,2511,50,okres Karlovy Vary
-450,Bohušovice nad Ohří,2505,8,okres Litoměřice
-451,Zbiroh,2500,31,okres Rokycany
-452,Ždánice,2481,20,okres Hodonín
-453,Chýnov,2480,30,okres Tábor
-454,Tovačov,2467,22,okres Přerov
-455,Klobouky u Brna,2453,31,okres Břeclav
-456,Dolní Kounice,2453,8,okres Brno-venkov
-457,Meziměstí,2429,25,okres Náchod
-458,Slavonice,2386,45,okres Jindřichův Hradec
-459,Sobotka,2371,19,okres Jičín
-460,Kryry,2345,39,okres Louny
-461,Nechanice,2329,27,okres Hradec Králové
-462,Žlutice,2305,53,okres Karlovy Vary
-463,Plumlov,2304,11,okres Prostějov
-464,Dašice,2303,17,okres Pardubice
-465,Janovice nad Úhlavou,2270,28,okres Klatovy
-466,Mirošov,2263,13,okres Rokycany
-467,Nová Včelnice,2254,10,okres Jindřichův Hradec
-468,Horní Benešov,2253,20,okres Bruntál
-469,Horní Jiřetín,2241,39,okres Most
-470,Kardašova Řečice,2199,45,okres Jindřichův Hradec
-471,Mikulášovice,2189,25,okres Děčín
-472,Solnice,2188,12,okres Rychnov nad Kněžnou
-473,Město Touškov,2187,9,okres Plzeň-sever
-474,Žebrák,2181,8,okres Beroun
-475,Budyně nad Ohří,2175,33,okres Litoměřice
-476,Luby,2146,30,okres Cheb
-477,Veltrusy,2131,8,okres Mělník
-478,Hranice,2129,31,okres Cheb
-479,Ralsko,2117,170,okres Česká Lípa
-480,Horní Planá,2088,127,okres Český Krumlov
-481,Proseč,2084,34,okres Chrudim
-482,Kopidlno,2080,29,okres Jičín
-483,Borohrádek,2079,13,okres Rychnov nad Kněžnou
-484,Týnec nad Labem,2063,15,okres Kolín
-485,Svoboda nad Úpou,2062,7,okres Trutnov
-486,Horní Jelení,2058,24,okres Pardubice
-487,Hroznětín,2041,23,okres Karlovy Vary
-488,Nový Knín,2039,29,okres Příbram
-489,Rokytnice v Orlických horách,2022,40,okres Rychnov nad Kněžnou
-490,Štíty,2021,29,okres Šumperk
-491,Hrochův Týnec,2021,12,okres Chrudim
-492,Jistebnice,2013,57,okres Tábor
-493,Skalná,1999,23,okres Cheb
-494,Němčice nad Hanou,1999,12,okres Prostějov
-495,Hrob,1998,11,okres Teplice
-496,Třebenice,1982,21,okres Litoměřice
-497,Velký Šenov,1982,19,okres Děčín
-498,Bochov,1980,95,okres Karlovy Vary
-499,Pyšely,1971,12,okres Benešov
-500,Zásmuky,1965,24,okres Kolín
-501,Smečno,1962,9,okres Kladno
-502,Plesná,1935,19,okres Cheb
-503,Žandov,1895,27,okres Česká Lípa
-504,Kouřim,1885,14,okres Kolín
-505,Lučany nad Nisou,1859,13,okres Jablonec nad Nisou
-506,Vroutek,1846,52,okres Louny
-507,Radnice,1832,10,okres Rokycany
-508,Horní Cerekev,1822,31,okres Pelhřimov
-509,Lomnice nad Lužnicí,1778,18,okres Jindřichův Hradec
-510,Hostomice,1765,28,okres Beroun
-511,Libáň,1764,19,okres Jičín
-512,Hrotovice,1751,20,okres Třebíč
-513,Hoštka,1749,18,okres Litoměřice
-514,Bělá nad Radbuzou,1745,83,okres Domažlice
-515,Černovice,1733,36,okres Pelhřimov
-516,Dolní Poustevna,1732,11,okres Děčín
-517,Staré Město,1726,86,okres Šumperk
-518,Dubá,1723,60,okres Česká Lípa
-519,Seč,1720,36,okres Chrudim
-520,Jesenice,1719,37,okres Rakovník
-521,Vlachovo Březí,1713,19,okres Prachatice
-522,Ronov nad Doubravou,1686,17,okres Chrudim
-523,Nasavrky,1679,12,okres Chrudim
-524,Švihov,1678,34,okres Klatovy
-525,Oloví,1672,19,okres Sokolov
-526,Olešnice,1672,12,okres Blansko
-527,Březová nad Svitavou,1655,12,okres Svitavy
-528,Plánice,1653,55,okres Klatovy
-529,Jablonec nad Jizerou,1645,22,okres Semily
-530,Železná Ruda,1631,79,okres Klatovy
-531,Rožďalovice,1629,23,okres Nymburk
-532,Teplice nad Metují,1626,56,okres Náchod
-533,Kladruby,1618,48,okres Tachov
-534,Mirovice,1614,22,okres Písek
-535,Přimda,1584,50,okres Tachov
-536,Poběžovice,1574,27,okres Domažlice
-537,Bavorov,1572,35,okres Strakonice
-538,Bystré,1540,14,okres Svitavy
-539,Mýto,1538,17,okres Rokycany
-540,Všeruby,1493,23,okres Plzeň-sever
-541,Lázně Kynžvart,1474,32,okres Cheb
-542,Kožlany,1451,29,okres Plzeň-sever
-543,Husinec,1451,10,okres Prachatice
-544,Kašperské Hory,1449,44,okres Klatovy
-545,Mšeno,1431,26,okres Mělník
-546,Strmilov,1425,30,okres Jindřichův Hradec
-547,Harrachov,1421,36,okres Semily
-548,Strážov,1417,35,okres Klatovy
-549,Svratka,1403,14,okres Žďár nad Sázavou
-550,Trhový Štěpánov,1387,28,okres Benešov
-551,Chřibská,1349,15,okres Děčín
-552,Hostouň,1325,38,okres Domažlice
-553,Habry,1317,27,okres Havlíčkův Brod
-554,Železnice,1303,13,okres Jičín
-555,Brandýs nad Orlicí,1303,4,okres Ústí nad Orlicí
-556,Kasejovice,1292,34,okres Plzeň-jih
-557,Vysoké nad Jizerou,1290,20,okres Semily
-558,Vidnava,1282,4,okres Jeseník
-559,Rovensko pod Troskami,1277,12,okres Semily
-560,Pilníkov,1269,16,okres Trutnov
-561,Sedlice,1252,30,okres Strakonice
-562,Žulová,1247,14,okres Jeseník
-563,Mirotice,1222,25,okres Písek
-564,Úsov,1183,9,okres Šumperk
-565,Potštát,1179,34,okres Přerov
-566,Nalžovské Hory,1172,51,okres Klatovy
-567,Jevišovice,1168,7,okres Znojmo
-568,Verneřice,1158,31,okres Děčín
-569,Černošín,1150,42,okres Tachov
-570,Měčín,1145,38,okres Klatovy
-571,Manětín,1142,84,okres Plzeň-sever
-572,Špindlerův Mlýn,1119,76,okres Trutnov
-573,Osečná,1116,28,okres Liberec
-574,Krásná Hora nad Vltavou,1107,36,okres Příbram
-575,Liběchov,1083,11,okres Mělník
-576,Červená Řečice,1003,26,okres Pelhřimov
-577,Blšany,999,36,okres Louny
-578,Bělčice,981,34,okres Strakonice
-579,Abertamy,975,8,okres Karlovy Vary
-580,Hartmanice,974,62,okres Klatovy
-581,Bezdružice,951,32,okres Tachov
-582,Bečov nad Teplou,934,19,okres Karlovy Vary
-583,Miletín,912,8,okres Jičín
-584,Vysoké Veselí,865,9,okres Jičín
-585,Stráž nad Nežárkou,862,36,okres Jindřichův Hradec
-586,Deštná,749,12,okres Jindřichův Hradec
-587,Krásno,709,25,okres Sokolov
-588,Janské Lázně,699,13,okres Trutnov
-589,Pec pod Sněžkou,657,52,okres Trutnov
-590,Lipnice nad Sázavou,654,11,okres Havlíčkův Brod
-591,Stárkov,644,16,okres Náchod
-592,Chyše,579,28,okres Karlovy Vary
-593,Mašťov,570,23,okres Chomutov
-594,Ledvice,544,4,okres Teplice
-595,Rabí,503,14,okres Klatovy
-596,Úterý,470,25,okres Plzeň-sever
-597,Hora Svaté Kateřiny,453,18,okres Most
-598,Horní Blatná,412,5,okres Karlovy Vary
-599,Krásné Údolí,400,9,okres Karlovy Vary
-600,Výsluní,373,30,okres Chomutov
-601,Rožmberk nad Vltavou,364,24,okres Český Krumlov
-602,Andělská Hora,357,15,okres Bruntál
-603,Janov,293,11,okres Bruntál
-604,Rejštejn,255,30,okres Klatovy
-605,Boží Dar,253,37,okres Karlovy Vary
-606,Loučná pod Klínovcem,111,20,okres Chomutov
-607,Přebuz,73,29,okres Sokolov
+id,city,population,area,district,latitude,longitude
+1,Praha,1308632,496,Praha,50.0874654,14.4212535
+2,Brno,380681,230,okres Brno-město,49.1922443,16.6113382
+3,Ostrava,289128,214,okres Ostrava-město,49.8349139,18.2820084
+4,Plzeň,172441,137,okres Plzeň-město,49.7477415,13.3775249
+5,Liberec,104445,106,okres Liberec,50.7702648,15.0583947
+6,Olomouc,100523,103,okres Olomouc,49.5940567,17.251143
+7,České Budějovice,94014,55,okres České Budějovice,48.9747357,14.474285
+8,Ústí nad Labem,92952,93,okres Ústí nad Labem,50.6603327,14.0381357
+9,Hradec Králové,92742,105,okres Hradec Králové,50.2094963,15.832719
+10,Pardubice,90688,82,okres Pardubice,50.0385812,15.7791356
+11,Zlín,74997,102,okres Zlín,49.226766,17.6667415
+12,Havířov,71903,32,okres Karviná,49.7801136,18.4368451
+13,Kladno,69054,36,okres Kladno,50.1478497,14.1025379
+14,Most,66186,86,okres Most,50.5032737,13.636112
+15,Opava,56638,90,okres Opava,49.9389004,17.9024174
+16,Frýdek-Místek,55931,51,okres Frýdek-Místek,49.685635,18.3483416
+17,Karviná,52824,57,okres Karviná,49.8542719,18.5416556
+18,Jihlava,50845,87,okres Jihlava,49.396064,15.5903065
+19,Teplice,49575,23,okres Teplice,50.6406644,13.8244461
+20,Děčín,48809,117,okres Děčín,50.7824196,14.2147221
+21,Chomutov,48720,29,okres Chomutov,50.4607421,13.4177224
+22,Karlovy Vary,48501,59,okres Karlovy Vary,50.2304694,12.8710769
+23,Jablonec nad Nisou,45802,31,okres Jablonec nad Nisou,50.7240899,15.1710958
+24,Mladá Boleslav,44489,28,okres Mladá Boleslav,50.4116187,14.9031301
+25,Prostějov,43680,39,okres Prostějov,49.4721467,17.1117979
+26,Přerov,43186,58,okres Přerov,49.4553775,17.4508621
+27,Česká Lípa,37444,66,okres Česká Lípa,50.6865452,14.5372974
+28,Třebíč,35691,57,okres Třebíč,49.2151907,15.8816091
+29,Třinec,35131,85,okres Frýdek-Místek,49.6779212,18.6711993
+30,Tábor,34456,62,okres Tábor,49.4140896,14.6584713
+31,Znojmo,33780,65,okres Znojmo,48.8554341,16.0489457
+32,Příbram,32642,33,okres Příbram,49.6901444,14.0103663
+33,Cheb,31988,96,okres Cheb,50.0793511,12.3703526
+34,Kolín,31690,34,okres Kolín,50.0288894,15.2011571
+35,Trutnov,30372,103,okres Trutnov,50.5608851,15.9130498
+36,Písek,30351,63,okres Písek,49.3089887,14.147769
+37,Orlová,28852,24,okres Karviná,49.8459427,18.4309274
+38,Kroměříž,28816,50,okres Kroměříž,49.2984191,17.3929804
+39,Vsetín,26092,57,okres Vsetín,49.3389775,17.9961534
+40,Šumperk,25957,27,okres Šumperk,49.9655521,16.9705651
+41,Uherské Hradiště,25212,21,okres Uherské Hradiště,49.0681018,17.4663899
+42,Břeclav,24704,77,okres Břeclav,48.7594008,16.8813137
+43,Hodonín,24682,63,okres Hodonín,48.8492027,17.1324031
+44,Český Těšín,24438,33,okres Karviná,49.7464018,18.6260976
+45,Litoměřice,24001,17,okres Litoměřice,50.5340795,14.1317985
+46,Litvínov,23884,40,okres Most,50.6009532,13.6110485
+47,Nový Jičín,23496,36,okres Nový Jičín,49.594881,18.0102584
+48,Krnov,23397,44,okres Bruntál,50.089937,17.7038079
+49,Havlíčkův Brod,23256,64,okres Havlíčkův Brod,49.607079,15.5794883
+50,Sokolov,23241,22,okres Sokolov,50.1815641,12.640035
+51,Chrudim,23151,33,okres Chrudim,49.9511458,15.7947559
+52,Strakonice,22754,34,okres Strakonice,49.2662501,13.913701605344116
+53,Klatovy,22233,80,okres Klatovy,49.3951183,13.2935954
+54,Valašské Meziříčí,22217,35,okres Vsetín,49.4716056,17.971593
+55,Kopřivnice,21949,27,okres Nový Jičín,49.598913,18.1452134
+56,Jindřichův Hradec,21445,74,okres Jindřichův Hradec,49.1443265,15.003354
+57,Vyškov,20883,50,okres Vyškov,49.2778194,16.9994446
+58,Žďár nad Sázavou,20847,37,okres Žďár nad Sázavou,49.5629014,15.9391924
+59,Bohumín,20690,31,okres Karviná,49.9041537,18.3574288
+60,Kutná Hora,20580,33,okres Kutná Hora,49.9486561,15.2681123
+61,Blansko,20572,44,okres Blansko,49.3621289,16.645061176260818
+62,Náchod,19979,33,okres Náchod,50.4167811,16.1630918
+63,Beroun,19510,31,okres Beroun,49.9640292,14.0733907
+64,Mělník,19486,24,okres Mělník,50.3520785,14.4748281
+65,Jirkov,19299,17,okres Chomutov,50.5000597,13.4476266
+66,Brandýs nad Labem-Stará Boleslav,19136,22,okres Praha-východ,50.1912412,14.6649786
+67,Žatec,19133,42,okres Louny,50.3274423,13.545952
+68,Louny,18351,24,okres Louny,50.3572555,13.7966137
+69,Kadaň,18202,65,okres Chomutov,50.3761991,13.2710364
+70,Kralupy nad Vltavou,18194,21,okres Mělník,50.2421243,14.3118883
+71,Hranice,18057,49,okres Přerov,49.548233,17.7346535
+72,Otrokovice,17876,19,okres Zlín,49.215040099999996,17.53427813299387
+73,Bílina,17166,32,okres Teplice,50.5484048,13.7747641
+74,Svitavy,16838,31,okres Svitavy,49.7562053,16.4688995
+75,Ostrov,16731,50,okres Karlovy Vary,49.9726044,16.0303268
+76,Benešov,16656,46,okres Benešov,49.7818921,14.6869121
+77,Jičín,16577,24,okres Jičín,50.4370452,15.3516528
+78,Uherský Brod,16493,52,okres Uherské Hradiště,49.0253139,17.6464437
+79,Rožnov pod Radhoštěm,16420,39,okres Vsetín,49.4587958,18.1429843
+80,Bruntál,16408,29,okres Bruntál,49.9885113,17.4652901
+81,Neratovice,16163,20,okres Mělník,50.2598479,14.5175086
+82,Pelhřimov,16069,95,okres Pelhřimov,49.4317154,15.2233722
+83,Rakovník,15846,18,okres Rakovník,50.1039674,13.7333385
+84,Slaný,15834,35,okres Kladno,50.2306933,14.0868501
+85,Říčany,15619,25,okres Praha-východ,49.2151397,16.3933259
+86,Dvůr Králové nad Labem,15594,35,okres Trutnov,50.4319898,15.8139714
+87,Česká Třebová,15508,40,okres Ústí nad Orlicí,49.9021593,16.4472039
+88,Varnsdorf,15297,26,okres Děčín,50.9124244,14.6194058
+89,Nymburk,15063,20,okres Nymburk,50.186331,15.0417306
+90,Klášterec nad Ohří,14533,53,okres Chomutov,50.3847188,13.1712133
+91,Turnov,14334,22,okres Semily,50.5872282,15.150259702715726
+92,Ústí nad Orlicí,14196,36,okres Ústí nad Orlicí,49.9737051,16.3940676
+93,Rokycany,14192,30,okres Rokycany,49.7429636,13.5945245
+94,Poděbrady,14186,33,okres Nymburk,50.149751,15.128307453984743
+95,Hlučín,13953,21,okres Opava,49.8982209,18.1919194
+96,Zábřeh,13589,34,okres Šumperk,49.88287,16.8721836
+97,Šternberk,13495,48,okres Olomouc,49.730712,17.2988474
+98,Chodov,13394,14,okres Sokolov,49.4178263,12.8301371
+99,Aš,13210,55,okres Cheb,50.22359205,12.185766532475133
+100,Český Krumlov,13085,22,okres Český Krumlov,48.805114950000004,14.316197791106362
+101,Roudnice nad Labem,12967,16,okres Litoměřice,50.4255496,14.2616915
+102,Tachov,12802,40,okres Tachov,49.7955449,12.6329861
+103,Mariánské Lázně,12800,51,okres Cheb,49.9739518,12.703319
+104,Krupka,12624,46,okres Teplice,50.6847005,13.8577518
+105,Vrchlabí,12461,27,okres Trutnov,50.6271452,15.6095779
+106,Jaroměř,12433,23,okres Náchod,50.3555088,15.9185723
+107,Vysoké Mýto,12335,42,okres Ústí nad Orlicí,49.9534727,16.1616455
+108,Čelákovice,12260,15,okres Praha-východ,50.1607829,14.7500022
+109,Milovice,11834,28,okres Nymburk,50.2259601,14.8886322
+110,Nový Bor,11678,19,okres Česká Lípa,50.757878,14.5554953
+111,Boskovice,11622,27,okres Blansko,49.496569300000004,16.661627904400362
+112,Holešov,11606,33,okres Kroměříž,49.333718,17.5786751
+113,Vlašim,11598,41,okres Benešov,49.7065924,14.8987513
+114,Velké Meziříčí,11484,40,okres Žďár nad Sázavou,49.3554996,16.0121507
+115,Uničov,11396,48,okres Olomouc,49.7711837,17.1213944
+116,Kyjov,11218,29,okres Hodonín,49.0104456,17.1224867
+117,Jeseník,11192,38,okres Jeseník,50.2296385,17.2046012
+118,Domažlice,11150,24,okres Domažlice,49.4407069,12.9298338
+119,Sušice,11110,45,okres Klatovy,49.2313907,13.5204076
+120,Rumburk,11082,24,okres Děčín,50.9517739,14.5569317
+121,Veselí nad Moravou,11006,35,okres Hodonín,48.9540796,17.379034
+122,Rychnov nad Kněžnou,10998,34,okres Rychnov nad Kněžnou,50.1631069,16.274837
+123,Kuřim,10997,17,okres Brno-venkov,49.2987857,16.531396
+124,Humpolec,10894,51,okres Pelhřimov,49.5418861,15.3586709
+125,Prachatice,10874,38,okres Prachatice,49.0131123,13.9977479
+126,Frenštát pod Radhoštěm,10820,11,okres Nový Jičín,49.5474224,18.2117067
+127,Litomyšl,10429,33,okres Svitavy,49.8725491,16.3101243
+128,Čáslav,10326,26,okres Kutná Hora,49.9109171,15.3913205
+129,Nové Město na Moravě,10098,61,okres Žďár nad Sázavou,49.5616916,16.0744185
+130,Moravská Třebová,10070,42,okres Svitavy,49.7581979,16.6642129
+131,Lanškroun,9991,20,okres Ústí nad Orlicí,49.9124356,16.6118541
+132,Frýdlant nad Ostravicí,9964,21,okres Frýdek-Místek,49.5930718,18.3596301
+133,Litovel,9810,46,okres Olomouc,49.7014789,17.0761064
+134,Ivančice,9742,47,okres Brno-venkov,49.1015881,16.3776051
+135,Lysá nad Labem,9717,33,okres Nymburk,50.2016983,14.832757
+136,Hlinsko,9677,24,okres Chrudim,49.7625672,15.907339
+137,Přelouč,9659,30,okres Pardubice,50.0401412,15.5603286
+138,Studénka,9536,30,okres Nový Jičín,49.7137494,18.0610845
+139,Jesenice,9448,17,okres Praha-západ,50.0984577,13.4717743
+140,Nové Město nad Metují,9436,23,okres Náchod,50.3442064,16.1512997
+141,Králův Dvůr,9357,15,okres Beroun,49.9502063,14.0344556
+142,Tišnov,9257,17,okres Brno-venkov,49.348838,16.4244906
+143,Chotěboř,9250,54,okres Havlíčkův Brod,49.7205393,15.6699904
+144,Mohelnice,9189,46,okres Šumperk,49.7769472,16.9196183
+145,Nová Paka,9094,28,okres Jičín,50.4947616,15.5149801
+146,Dobříš,8983,53,okres Příbram,49.7813749,14.1704372
+147,Lovosice,8837,11,okres Litoměřice,50.5153052,14.0509704
+148,Polička,8748,33,okres Svitavy,49.7149137,16.2653869
+149,Mnichovo Hradiště,8729,34,okres Mladá Boleslav,50.5233731,14.979577888259035
+150,Štětí,8685,53,okres Litoměřice,50.4529665,14.3746577
+151,Choceň,8646,21,okres Ústí nad Orlicí,50.0018735,16.2229788
+152,Hořice,8621,21,okres Jičín,50.3665337,15.6321735
+153,Hostivice,8546,14,okres Praha-západ,50.0815167,14.2585743
+154,Roztoky,8529,8,okres Praha-západ,50.1586802,14.3975468
+155,Duchcov,8517,15,okres Teplice,50.6040315,13.7461464
+156,Příbor,8452,22,okres Nový Jičín,49.6401091,18.1438062
+157,Semily,8367,16,okres Semily,50.602249,15.33526
+158,Červený Kostelec,8352,24,okres Náchod,50.4762415,16.0928977
+159,Milevsko,8277,42,okres Písek,49.4503023,14.3595152
+160,Třeboň,8253,98,okres Jindřichův Hradec,49.0064356,14.7633295
+161,Rýmařov,8247,60,okres Bruntál,49.9320352,17.2714574
+162,Bystřice pod Hostýnem,8169,26,okres Kroměříž,49.399451,17.6737912
+163,Bystřice nad Pernštejnem,8110,53,okres Žďár nad Sázavou,49.5228805,16.2613311
+164,Lipník nad Bečvou,8024,30,okres Přerov,49.5273114,17.5861035
+165,Týn nad Vltavou,8000,43,okres České Budějovice,49.2233024,14.4211263
+166,Dubí,7870,33,okres Teplice,50.6812997,13.788771
+167,Nejdek,7807,52,okres Karlovy Vary,50.3247878,12.7332967
+168,Hrádek nad Nisou,7722,48,okres Liberec,50.8522229,14.8436667
+169,Stříbro,7680,47,okres Tachov,49.7530168,13.0049136
+170,Šlapanice,7563,14,okres Brno-venkov,49.1688974,16.7272687
+171,Frýdlant,7531,31,okres Liberec,50.9216775,15.0794594
+172,Rychvald,7457,17,okres Karviná,49.8663296,18.376392
+173,Broumov,7444,22,okres Náchod,50.5853016,16.3324545
+174,Bílovec,7419,38,okres Nový Jičín,49.7567664,18.01623
+175,Benátky nad Jizerou,7418,35,okres Mladá Boleslav,50.291767,14.8260014
+176,Vimperk,7399,80,okres Prachatice,49.0526997,13.774198
+177,Moravské Budějovice,7364,37,okres Třebíč,49.052357,15.808595
+178,Mikulov,7359,45,okres Břeclav,48.8068577,16.6383914
+179,Dačice,7325,66,okres Jindřichův Hradec,49.0818108,15.437216
+180,Vratimov,7297,14,okres Ostrava-město,49.7697532,18.3102044
+181,Sezimovo Ústí,7257,8,okres Tábor,49.3854537,14.6847498
+182,Odry,7227,74,okres Nový Jičín,49.6622193,17.8303013
+183,Napajedla,7222,19,okres Zlín,49.1715891,17.5113718
+184,Petřvald,7190,12,okres Karviná,49.8310682,18.3898338
+185,Černošice,7170,9,okres Praha-západ,49.9605466,14.3197051
+186,Kaplice,7164,40,okres Český Krumlov,48.7388101,14.4965785
+187,Přeštice,7114,25,okres Plzeň-jih,49.5726096,13.3295697
+188,Sedlčany,7080,36,okres Příbram,49.6582258,14.4254935
+189,Český Brod,7046,19,okres Kolín,50.0744692,14.8607574
+190,Nový Bydžov,6986,35,okres Hradec Králové,50.2417701,15.4907692
+191,Nýřany,6975,22,okres Plzeň-sever,49.7117208,13.2117858
+192,Soběslav,6968,19,okres Tábor,49.259407,14.7193304
+193,Vodňany,6953,36,okres Strakonice,49.1478708,14.1754647
+194,Hořovice,6844,9,okres Beroun,49.8363239,13.902867
+195,Hulín,6819,32,okres Kroměříž,49.3171618,17.4636996
+196,Kraslice,6749,81,okres Sokolov,50.3239885,12.5174004
+197,Letovice,6745,51,okres Blansko,49.54992235,16.57732984304624
+198,Úvaly,6744,10,okres Praha-východ,50.0740135,14.7305192
+199,Dobruška,6727,34,okres Rychnov nad Kněžnou,50.2921062,16.1605457
+200,Kravaře,6695,19,okres Opava,49.9321321,18.0044266
+201,Slavkov u Brna,6694,14,okres Vyškov,49.1535759,16.8763606
+202,Staré Město,6652,20,okres Uherské Hradiště,50.0842845,14.4178391
+203,Blatná,6583,43,okres Strakonice,49.425124,13.8825978
+204,Holice,6574,19,okres Pardubice,50.0662793,15.9858513
+205,Světlá nad Sázavou,6566,42,okres Havlíčkův Brod,49.6680082,15.403934
+206,Bučovice,6496,31,okres Vyškov,49.1492236,17.001864
+207,Slavičín,6468,33,okres Zlín,49.0889594,17.874808
+208,Mimoň,6434,15,okres Česká Lípa,50.6499076,14.737507220395393
+209,Letohrad,6402,23,okres Ústí nad Orlicí,50.0358007,16.4987852
+210,Šenov,6400,16,okres Ostrava-město,49.7931698,18.3756285
+211,Podbořany,6368,60,okres Louny,50.2296341,13.4118542
+212,Veselí nad Lužnicí,6367,29,okres Tábor,49.1840287,14.6973904
+213,Dubňany,6349,22,okres Hodonín,48.9175078,17.0955296
+214,Chrastava,6281,27,okres Liberec,50.8171929,14.9687813
+215,Tanvald,6252,12,okres Jablonec nad Nisou,50.7379436,15.3037997
+216,Rosice,6237,12,okres Brno-venkov,49.1825874,16.3878251
+217,Kostelec nad Orlicí,6201,26,okres Rychnov nad Kněžnou,50.1228357,16.2135958
+218,Dobřany,6154,35,okres Plzeň-jih,49.6548233,13.2930682
+219,Hronov,6125,22,okres Náchod,50.4797582,16.1820581
+220,Žamberk,6104,16,okres Ústí nad Orlicí,50.0874408,16.4648984
+221,Kojetín,6103,31,okres Přerov,49.3520529,17.3021634
+222,Železný Brod,6069,22,okres Jablonec nad Nisou,50.6430652,15.2539851
+223,Týniště nad Orlicí,6058,52,okres Rychnov nad Kněžnou,50.1513634,16.0776973
+224,Odolena Voda,6022,11,okres Praha-východ,50.2334117,14.4107808
+225,Hustopeče,5964,24,okres Břeclav,48.9399831,16.7369738
+226,Mníšek pod Brdy,5832,26,okres Praha-západ,49.8664138,14.2609488
+227,Třešť,5766,46,okres Jihlava,49.2905709,15.4821668
+228,Třebechovice pod Orebem,5748,21,okres Hradec Králové,50.2007842,15.993087
+229,Moravský Krumlov,5729,49,okres Znojmo,49.0492698,16.3115273
+230,Vítkov,5725,55,okres Opava,49.7758144,17.7517864
+231,Týnec nad Sázavou,5715,25,okres Benešov,49.8334756,14.5899539
+232,Rousínov,5673,23,okres Vyškov,49.2015498,16.8821032
+233,Úpice,5661,15,okres Trutnov,50.5125314,16.0154279
+234,Fulnek,5656,68,okres Nový Jičín,49.7126449,17.9031553
+235,Šluknov,5615,47,okres Děčín,51.003217,14.4530321
+236,Kunovice,5606,28,okres Uherské Hradiště,49.0419604,17.4662253
+237,Strážnice,5560,31,okres Hodonín,48.9018932,17.314434
+238,Jablunkov,5547,10,okres Frýdek-Místek,49.5767408,18.7645761
+239,Lomnice nad Popelkou,5541,25,okres Semily,50.5310646,15.3728809
+240,Brumov-Bylnice,5540,56,okres Zlín,49.0912882,18.0227659
+241,Zubří,5540,28,okres Vsetín,49.5711085,16.1236867
+242,Nové Strašecí,5517,13,okres Rakovník,50.1532192,13.9004279
+243,Františkovy Lázně,5514,25,okres Cheb,50.1223741,12.3488519
+244,Hradec nad Moravicí,5489,43,okres Opava,49.8709009,17.8754742
+245,Chlumec nad Cidlinou,5462,21,okres Hradec Králové,50.154395,15.4603384
+246,Stochov,5416,9,okres Kladno,50.1481264,13.9629115
+247,Horní Slavkov,5414,36,okres Sokolov,50.139072,12.8077875
+248,Planá,5413,62,okres Tachov,48.94367,14.4527685
+249,Hluboká nad Vltavou,5410,91,okres České Budějovice,49.0522493,14.4342702
+250,Jilemnice,5391,13,okres Semily,50.6091761,15.5064747
+251,Horažďovice,5310,43,okres Klatovy,49.3210159,13.7006943
+252,Modřice,5296,10,okres Brno-venkov,49.1288791,16.6137074
+253,Telč,5276,24,okres Jihlava,49.1847652,15.4524773
+254,Česká Kamenice,5247,38,okres Děčín,50.7994117,14.4165592
+255,Doksy,5206,74,okres Česká Lípa,50.5642825,14.6553399
+256,Velká Bíteš,5193,47,okres Žďár nad Sázavou,49.2888655,16.225908
+257,Holýšov,5191,29,okres Domažlice,49.5936108,13.1012935
+258,Kdyně,5169,28,okres Domažlice,49.3905888,13.0394725
+259,Bakov nad Jizerou,5156,27,okres Mladá Boleslav,50.4801187,14.9388306
+260,Trhové Sviny,5154,52,okres České Budějovice,48.8425812,14.6391858
+261,Jílové,5147,36,okres Děčín,50.7610971,14.1041986
+262,Polná,5141,37,okres Jihlava,49.4873383,15.7188513
+263,Rudná,5137,8,okres Praha-západ,49.6593908,16.573224
+264,Starý Plzenec,5105,18,okres Plzeň-město,49.6977029,13.4734102
+265,Bechyně,5097,21,okres Tábor,49.2953802,14.46884
+266,Kosmonosy,5093,11,okres Mladá Boleslav,50.4390101,14.9300612
+267,Česká Skalice,5078,17,okres Náchod,50.3946132,16.0435698
+268,Ledeč nad Sázavou,5074,17,okres Havlíčkův Brod,49.6954347,15.2776706
+269,Pohořelice,5051,43,okres Brno-venkov,48.9814826,16.5245722
+270,Skuteč,5046,35,okres Chrudim,49.8434267,15.9961932
+271,Luhačovice,5045,32,okres Zlín,49.0997324,17.7577004
+272,Vrbno pod Pradědem,5040,68,okres Bruntál,50.1209513,17.3831569
+273,Třemošná,5031,18,okres Plzeň-sever,49.8161125,13.3949879
+274,Horšovský Týn,5006,71,okres Domažlice,49.52650495,12.942406894513306
+275,Valašské Klobouky,4951,26,okres Zlín,49.1409048,18.0075634
+276,Nýrsko,4920,31,okres Klatovy,49.2938686,13.1435324
+277,Chropyně,4889,19,okres Kroměříž,49.3567094,17.3644698
+278,Náměšť nad Oslavou,4871,18,okres Třebíč,49.20930535,16.158590934775464
+279,Habartov,4846,21,okres Sokolov,50.1826873,12.5502631
+280,Heřmanův Městec,4835,14,okres Chrudim,49.9470444,15.6646587
+281,Protivín,4830,61,okres Písek,49.2000186,14.2159645
+282,Meziboří,4810,14,okres Most,50.6214996,13.6000332
+283,Vizovice,4800,28,okres Zlín,49.2231391,17.8545076
+284,Kynšperk nad Ohří,4789,23,okres Sokolov,50.1182943,12.531107
+285,Bělá pod Bezdězem,4786,63,okres Mladá Boleslav,50.5014795,14.8041263
+286,Unhošť,4779,17,okres Kladno,50.08499,14.1318613
+287,Jílové u Prahy,4770,16,okres Praha-západ,49.8952972,14.4933502
+288,Pečky,4769,10,okres Kolín,50.0898509,15.0291945
+289,Pacov,4758,35,okres Pelhřimov,49.4707194,15.0036121
+290,Osek,4757,42,okres Teplice,49.3183008,13.9631874
+291,Zruč nad Sázavou,4750,16,okres Kutná Hora,49.740296,15.106074
+292,Postoloprty,4716,46,okres Louny,50.3600554,13.7028467
+293,Oslavany,4693,18,okres Brno-venkov,49.1236142,16.3364832
+294,Votice,4587,36,okres Benešov,49.6403939,14.6380296
+295,Vracov,4557,44,okres Hodonín,48.9753927,17.2106987
+296,Vamberk,4532,21,okres Rychnov nad Kněžnou,50.1179339,16.2903737
+297,Adamov,4517,3,okres Blansko,49.300901,16.6544811
+298,Cvikov,4484,45,okres Česká Lípa,50.7888261,14.63051419446263
+299,Klimkovice,4468,14,okres Ostrava-město,49.7884424,18.1254099
+300,Bystřice,4422,63,okres Benešov,49.6363495,18.7204916
+301,Lišov,4405,93,okres České Budějovice,49.0158765,14.6083357
+302,Bojkovice,4395,41,okres Uherské Hradiště,49.0389132,17.8148347
+303,Chlumec,4380,12,okres Ústí nad Labem,48.8710287,14.3952883
+304,Rožmitál pod Třemšínem,4375,52,okres Příbram,49.602176,13.863958
+305,Bzenec,4361,40,okres Hodonín,48.9736321,17.2668112
+306,Hostinné,4361,8,okres Trutnov,50.5409308,15.723285
+307,Hluk,4340,28,okres Uherské Hradiště,48.988328,17.5268918
+308,Bor,4306,116,okres Tachov,49.7113567,12.7753178
+309,Kostelec nad Labem,4281,15,okres Mělník,50.226532,14.5855201
+310,Uherský Ostroh,4267,26,okres Uherské Hradiště,48.985558,17.3898443
+311,Horní Bříza,4213,14,okres Plzeň-sever,49.8457407,13.3655365
+312,Králíky,4196,52,okres Ústí nad Orlicí,50.0842625,16.7603582
+313,Slatiňany,4187,15,okres Chrudim,49.9212452,15.8132542
+314,Zdice,4179,13,okres Beroun,49.9119542,13.9779864
+315,Borovany,4173,42,okres České Budějovice,48.8998724,14.6419628
+316,Jaroměřice nad Rokytnou,4163,51,okres Třebíč,49.0943503,15.8932579
+317,Nová Role,4161,13,okres Karlovy Vary,50.2709162,12.7842174
+318,Blovice,4140,28,okres Plzeň-jih,49.5821789,13.5403535
+319,Planá nad Lužnicí,4132,21,okres Tábor,49.3549293,14.7012325
+320,Police nad Metují,4086,24,okres Náchod,50.5368703,16.2335044
+321,Dolní Benešov,4043,14,okres Opava,49.9210128,18.1083515
+322,Brušperk,4024,10,okres Frýdek-Místek,49.7003751,18.2216061
+323,Přibyslav,4012,35,okres Havlíčkův Brod,49.5768385,15.7385463
+324,Jemnice,4001,32,okres Třebíč,49.0192524,15.5698865
+325,Stráž pod Ralskem,3977,21,okres Česká Lípa,50.7029923,14.8009646
+326,Sezemice,3945,22,okres Pardubice,50.0663195,15.8526363
+327,Kamenický Šenov,3919,10,okres Česká Lípa,50.7735891,14.4728675
+328,Velké Bílovice,3907,25,okres Břeclav,48.8493878,16.892052
+329,Velešín,3899,13,okres Český Krumlov,48.8294852,14.4625166
+330,Paskov,3890,11,okres Frýdek-Místek,49.7317867,18.2903689
+331,Větřní,3882,27,okres Český Krumlov,48.7742466,14.2861607
+332,Mnichovice,3861,8,okres Praha-východ,49.9360148,14.7090689
+333,Rajhrad,3852,9,okres Brno-venkov,49.0890629,16.6030548
+334,Židlochovice,3826,5,okres Brno-venkov,49.0379775,16.6171639
+335,Zlaté Hory,3796,85,okres Jeseník,50.2637622,17.3953643
+336,Zbýšov,3784,6,okres Brno-venkov,49.1552431,16.3495114
+337,Volary,3780,107,okres Prachatice,48.9095977,13.8883971
+338,Kamenice nad Lipou,3766,31,okres Pelhřimov,49.303118,15.0754914
+339,Brtnice,3758,74,okres Jihlava,49.3068037,15.6766872
+340,Smržovka,3751,14,okres Jablonec nad Nisou,50.7384678,15.2463402
+341,Rájec-Jestřebí,3737,15,okres Blansko,49.409145,16.6270226
+342,Lanžhot,3733,54,okres Břeclav,48.7244326,16.9669476
+343,Nepomuk,3732,12,okres Plzeň-jih,49.4861397,13.5818116
+344,Kostelec nad Černými lesy,3723,17,okres Praha-východ,49.9918984,14.8557555
+345,Sázava,3720,20,okres Benešov,49.9081553,16.6408975
+346,Benešov nad Ploučnicí,3716,9,okres Děčín,50.7413413,14.3112047
+347,Toužim,3705,98,okres Karlovy Vary,50.0607602,12.9849922
+348,Lom,3700,16,okres Most,49.410445,13.9889872
+349,Fryšták,3697,24,okres Zlín,49.2852044,17.6834631
+350,Velké Opatovice,3685,25,okres Blansko,49.6126397,16.6794242
+351,Dobřichovice,3675,10,okres Praha-západ,49.9275312,14.2743416
+352,Nové Město pod Smrkem,3674,28,okres Liberec,50.9254734,15.2299746
+353,Lázně Bělohrad,3665,28,okres Jičín,50.4290274,15.5827632
+354,Jiříkov,3640,13,okres Děčín,50.9951393,14.5690963
+355,Jablonné v Podještědí,3622,57,okres Liberec,50.7657554,14.7614324
+356,Stod,3589,20,okres Plzeň-jih,49.6390886,13.1647362
+357,Klecany,3589,10,okres Praha-východ,50.1756713,14.4117052
+358,Zliv,3569,14,okres České Budějovice,49.0663495,14.3660772
+359,Valtice,3557,47,okres Břeclav,48.7409486,16.7555364
+360,Město Albrechtice,3529,65,okres Bruntál,50.1631183,17.5750385
+361,Lázně Bohdaneč,3525,21,okres Pardubice,50.082904049999996,15.688584456601316
+362,Březnice,3523,19,okres Příbram,49.5576246,13.9506049
+363,Suchdol nad Lužnicí,3522,63,okres Jindřichův Hradec,48.8880893,14.8746872
+364,České Velenice,3521,12,okres Jindřichův Hradec,48.7685057,14.9636772
+365,Kralovice,3504,39,okres Plzeň-sever,49.9821831,13.4874108
+366,Řevnice,3498,10,okres Praha-západ,49.9139823,14.2366056
+367,Libochovice,3496,15,okres Litoměřice,50.4061126,14.044564
+368,Buštěhrad,3464,7,okres Kladno,50.1558258,14.188817
+369,Krásná Lípa,3453,31,okres Děčín,50.9145647,14.5062621
+370,Štramberk,3438,9,okres Nový Jičín,49.591233,18.1170378
+371,Dobrovice,3394,24,okres Mladá Boleslav,50.369326,14.9623322
+372,Velká Bystřice,3384,9,okres Olomouc,49.5947568,17.3654414
+373,Libčice nad Vltavou,3383,7,okres Praha-západ,50.1988879,14.3624086
+374,Újezd u Brna,3368,13,okres Brno-venkov,49.1043477,16.7573682
+375,Libušín,3346,9,okres Kladno,50.1681884,14.054581
+376,Trmice,3332,6,okres Ústí nad Labem,50.6428488,13.9942622
+377,Hrušovany nad Jevišovkou,3330,25,okres Znojmo,48.8299011,16.4022403
+378,Staňkov,3317,20,okres Domažlice,48.9795234,14.9526982
+379,Nová Bystřice,3281,81,okres Jindřichův Hradec,49.0193392,15.1029382
+380,Veverská Bítýška,3270,13,okres Brno-venkov,49.27002245,16.428306100953186
+381,Sadská,3234,16,okres Nymburk,50.1361194,14.9859741
+382,Jablonné nad Orlicí,3189,4,okres Ústí nad Orlicí,50.0296366,16.6005927
+383,Hanušovice,3169,36,okres Šumperk,50.0784174,16.9347166
+384,Košťany,3166,24,okres Teplice,50.6550196,13.7546017
+385,Opočno,3136,14,okres Rychnov nad Kněžnou,50.2676907,16.1145157
+386,Žacléř,3134,21,okres Trutnov,50.6585674,15.9080271
+387,Břidličná,3129,25,okres Bruntál,49.9116692,17.3710729
+388,Uhlířské Janovice,3126,25,okres Kutná Hora,49.8807582,15.064492
+389,Velké Pavlovice,3119,23,okres Břeclav,48.9044074,16.8164581
+390,Ždírec nad Doubravou,3104,26,okres Havlíčkův Brod,49.6959567,15.8136021
+391,Chrast,3098,17,okres Chrudim,49.9020497,15.9339624
+392,Desná,3086,12,okres Jablonec nad Nisou,49.8075422,16.2240471
+393,Kaznějov,3075,12,okres Plzeň-sever,49.8931303,13.3829479
+394,Třemošnice,3065,19,okres Chrudim,49.8693093,15.5803962
+395,Loket,3055,26,okres Sokolov,49.6554898,15.1168908
+396,Velvary,3044,18,okres Kladno,50.2819312,14.2361619
+397,Volyně,3023,20,okres Strakonice,49.1663541,13.8865967
+398,Podivín,3011,17,okres Břeclav,48.8282341,16.8501418
+399,Rotava,2999,12,okres Sokolov,50.3058704,12.5610769
+400,Rtyně v Podkrkonoší,2997,13,okres Trutnov,50.505532,16.0711662
+401,Slušovice,2980,7,okres Zlín,49.2478182,17.8014972
+402,Loštice,2979,11,okres Šumperk,49.7449432,16.9281353
+403,Chvaletice,2971,8,okres Pardubice,50.0348654,15.4184231
+404,Moravský Beroun,2957,51,okres Olomouc,49.7939027,17.4427357
+405,Kostelec na Hané,2951,13,okres Prostějov,49.5139792,17.0582398
+406,Teplá,2946,113,okres Cheb,49.9875604,12.874645217105748
+407,Miroslav,2945,26,okres Znojmo,48.9473112,16.3134526
+408,Hodkovice nad Mohelkou,2944,13,okres Liberec,50.665862,15.0898509
+409,Ivanovice na Hané,2942,21,okres Vyškov,49.305449,17.0936032
+410,Morkovice-Slížany,2924,21,okres Kroměříž,49.2484586,17.2079269
+411,Terezín,2924,13,okres Litoměřice,50.5110401,14.1499933
+412,Žirovnice,2921,44,okres Pelhřimov,49.2531813,15.188238
+413,Budišov nad Budišovkou,2908,79,okres Opava,49.802900750000006,17.615275408149046
+414,Úštěk,2901,74,okres Litoměřice,50.5847441,14.3433242
+415,Smiřice,2899,10,okres Hradec Králové,50.2995707,15.8645911
+416,Městec Králové,2877,19,okres Nymburk,50.2071808,15.2975813
+417,Vejprty,2871,9,okres Chomutov,50.4923155,13.0321201
+418,Sedlec-Prčice,2854,64,okres Příbram,49.5726082,14.5326911
+419,Raspenava,2851,41,okres Liberec,50.9041544,15.1146468
+420,Zákupy,2850,40,okres Česká Lípa,50.6844952,14.6454503
+421,Jevíčko,2841,23,okres Svitavy,49.6324875,16.7118442
+422,Hrádek,2831,6,okres Rokycany,48.7731024,16.2717745
+423,Spálené Poříčí,2820,57,okres Plzeň-jih,49.6137072,13.6055617
+424,Kunštát,2787,24,okres Blansko,49.506451,16.5172192
+425,Konice,2784,24,okres Prostějov,49.5905186,16.8894268
+426,Javorník,2768,77,okres Jeseník,49.7827134,16.4273785
+427,Dolní Bousov,2761,24,okres Mladá Boleslav,50.4382479,15.1281248
+428,Koryčany,2756,41,okres Kroměříž,49.1063907,17.1643277
+429,Český Dub,2752,22,okres Liberec,50.6607076,14.9957954
+430,Rychnov u Jablonce nad Nisou,2749,12,okres Jablonec nad Nisou,50.6837901,15.149789
+431,Březová,2725,59,okres Sokolov,49.2602662,17.7912441
+432,Hejnice,2721,38,okres Liberec,50.0558831,16.3994139
+433,Plasy,2715,57,okres Plzeň-sever,49.933503,13.3895611
+434,Mladá Vožice,2704,31,okres Tábor,49.5331269,14.8085653
+435,Kelč,2689,27,okres Vsetín,49.4787107,17.8152939
+436,Golčův Jeníkov,2673,27,okres Havlíčkův Brod,49.8160108,15.4772768
+437,Velké Hamry,2650,9,okres Jablonec nad Nisou,50.7137344,15.3153896
+438,Rokytnice nad Jizerou,2640,36,okres Semily,50.7258788,15.433522
+439,Neveklov,2638,54,okres Benešov,49.7535116,14.533402
+440,Vyšší Brod,2621,69,okres Český Krumlov,48.6154234,14.3120378
+441,Nové Sedlo,2599,16,okres Sokolov,50.339638,13.4748279
+442,Netolice,2587,26,okres Prachatice,49.0493797,14.1962532
+443,Luže,2560,30,okres Chrudim,49.8934114,16.0284252
+444,Počátky,2551,30,okres Pelhřimov,49.2602542,15.2404051
+445,Rudolfov,2544,3,okres České Budějovice,48.9936055,14.5411628
+446,Karolinka,2528,42,okres Vsetín,49.3512769,18.2400622
+447,Nové Hrady,2524,79,okres České Budějovice,48.7896693,14.7783906
+448,Chabařovice,2518,16,okres Ústí nad Labem,50.6728303,13.9424879
+449,Jáchymov,2511,50,okres Karlovy Vary,50.3629787,12.9299257
+450,Bohušovice nad Ohří,2505,8,okres Litoměřice,50.49316,14.1504836
+451,Zbiroh,2500,31,okres Rokycany,49.8592406,13.7711465
+452,Ždánice,2481,20,okres Hodonín,49.54746,16.262086
+453,Chýnov,2480,30,okres Tábor,49.4067686,14.8112157
+454,Tovačov,2467,22,okres Přerov,49.4305415,17.288071
+455,Klobouky u Brna,2453,31,okres Břeclav,48.9950119,16.8595131
+456,Dolní Kounice,2453,8,okres Brno-venkov,49.0701117,16.4649199
+457,Meziměstí,2429,25,okres Náchod,50.6257349,16.2395252
+458,Slavonice,2386,45,okres Jindřichův Hradec,48.9975333,15.3515379
+459,Sobotka,2371,19,okres Jičín,50.46708565,15.172159342763022
+460,Kryry,2345,39,okres Louny,50.1743688,13.4265963
+461,Nechanice,2329,27,okres Hradec Králové,50.2373686,15.6327598
+462,Žlutice,2305,53,okres Karlovy Vary,50.0919193,13.1629708
+463,Plumlov,2304,11,okres Prostějov,49.4661363,17.0150159
+464,Dašice,2303,17,okres Pardubice,50.0284447,15.91244
+465,Janovice nad Úhlavou,2270,28,okres Klatovy,49.3452626,13.2175818
+466,Mirošov,2263,13,okres Rokycany,49.4655968,16.1555436
+467,Nová Včelnice,2254,10,okres Jindřichův Hradec,49.2393496,15.0726025
+468,Horní Benešov,2253,20,okres Bruntál,49.9668211,17.6026237
+469,Horní Jiřetín,2241,39,okres Most,50.5730927,13.54717
+470,Kardašova Řečice,2199,45,okres Jindřichův Hradec,49.1847779,14.8531546
+471,Mikulášovice,2189,25,okres Děčín,50.9650761,14.3628271
+472,Solnice,2188,12,okres Rychnov nad Kněžnou,50.2030082,16.2383273
+473,Město Touškov,2187,9,okres Plzeň-sever,49.7758711,13.2510792
+474,Žebrák,2181,8,okres Beroun,49.8757847,13.8968154
+475,Budyně nad Ohří,2175,33,okres Litoměřice,50.4042725,14.1259073
+476,Luby,2146,30,okres Cheb,50.2524788,12.4059461
+477,Veltrusy,2131,8,okres Mělník,50.2710734,14.3277379
+478,Hranice,2129,31,okres Cheb,49.548233,17.7346535
+479,Ralsko,2117,170,okres Česká Lípa,50.5857728,14.8040625
+480,Horní Planá,2088,127,okres Český Krumlov,48.7673396,14.0321919
+481,Proseč,2084,34,okres Chrudim,49.8059194,16.1164891
+482,Kopidlno,2080,29,okres Jičín,50.330851,15.2702931
+483,Borohrádek,2079,13,okres Rychnov nad Kněžnou,50.0978039,16.0932512
+484,Týnec nad Labem,2063,15,okres Kolín,50.0418987,15.3580835
+485,Svoboda nad Úpou,2062,7,okres Trutnov,50.6262304,15.8164318
+486,Horní Jelení,2058,24,okres Pardubice,50.0490103,16.0839638
+487,Hroznětín,2041,23,okres Karlovy Vary,50.3093974,12.8718012
+488,Nový Knín,2039,29,okres Příbram,49.7871435,14.2907781
+489,Rokytnice v Orlických horách,2022,40,okres Rychnov nad Kněžnou,50.1647335,16.4656749
+490,Štíty,2021,29,okres Šumperk,49.9612234,16.7657581
+491,Hrochův Týnec,2021,12,okres Chrudim,49.9594637,15.9105428
+492,Jistebnice,2013,57,okres Tábor,49.4855293,14.5275997
+493,Skalná,1999,23,okres Cheb,50.1702968,12.3614422
+494,Němčice nad Hanou,1999,12,okres Prostějov,49.3420839,17.2056673
+495,Hrob,1998,11,okres Teplice,50.6590894,13.7255293
+496,Třebenice,1982,21,okres Litoměřice,50.4763245,13.9900472
+497,Velký Šenov,1982,19,okres Děčín,50.9907708,14.3780786
+498,Bochov,1980,95,okres Karlovy Vary,50.1504167,13.0454108
+499,Pyšely,1971,12,okres Benešov,49.8767807,14.6770252
+500,Zásmuky,1965,24,okres Kolín,49.9547046,15.0305803
+501,Smečno,1962,9,okres Kladno,50.1884375,14.0403651
+502,Plesná,1935,19,okres Cheb,50.2208012,12.3466609
+503,Žandov,1895,27,okres Česká Lípa,50.7139357,14.3962321
+504,Kouřim,1885,14,okres Kolín,50.0030568,14.977031
+505,Lučany nad Nisou,1859,13,okres Jablonec nad Nisou,50.7413554,15.2204627
+506,Vroutek,1846,52,okres Louny,50.1799876,13.3798578
+507,Radnice,1832,10,okres Rokycany,49.8571241,13.606275
+508,Horní Cerekev,1822,31,okres Pelhřimov,49.3202595,15.3276906
+509,Lomnice nad Lužnicí,1778,18,okres Jindřichův Hradec,49.0815285,14.7181416
+510,Hostomice,1765,28,okres Beroun,49.8252575,14.0456045
+511,Libáň,1764,19,okres Jičín,50.3750037,15.2162186
+512,Hrotovice,1751,20,okres Třebíč,49.1076992,16.0606741
+513,Hoštka,1749,18,okres Litoměřice,50.4885904,14.3349996
+514,Bělá nad Radbuzou,1745,83,okres Domažlice,49.5911481,12.717606
+515,Černovice,1733,36,okres Pelhřimov,49.3725903,14.9599829
+516,Dolní Poustevna,1732,11,okres Děčín,50.9803948,14.2873374
+517,Staré Město,1726,86,okres Šumperk,50.0842845,14.4178391
+518,Dubá,1723,60,okres Česká Lípa,50.5403416,14.5402337
+519,Seč,1720,36,okres Chrudim,49.8473534,15.6571108
+520,Jesenice,1719,37,okres Rakovník,50.0984577,13.4717743
+521,Vlachovo Březí,1713,19,okres Prachatice,49.08135,13.9584176
+522,Ronov nad Doubravou,1686,17,okres Chrudim,49.8882524,15.5314359
+523,Nasavrky,1679,12,okres Chrudim,49.8443072,15.8047822
+524,Švihov,1678,34,okres Klatovy,49.4813565,13.2841729
+525,Oloví,1672,19,okres Sokolov,50.2513968,12.5586985
+526,Olešnice,1672,12,okres Blansko,49.5577012,16.4223306
+527,Březová nad Svitavou,1655,12,okres Svitavy,49.64652185,16.5340740944866
+528,Plánice,1653,55,okres Klatovy,49.3899269,13.4710601
+529,Jablonec nad Jizerou,1645,22,okres Semily,50.70344,15.4295952
+530,Železná Ruda,1631,79,okres Klatovy,49.14256145,13.254655150393749
+531,Rožďalovice,1629,23,okres Nymburk,50.3034933,15.1699546
+532,Teplice nad Metují,1626,56,okres Náchod,50.5934272,16.1698265
+533,Kladruby,1618,48,okres Tachov,49.7231666,14.9500494
+534,Mirovice,1614,22,okres Písek,49.5155508,14.0358191
+535,Přimda,1584,50,okres Tachov,49.6746089,12.6763078
+536,Poběžovice,1574,27,okres Domažlice,49.5108301,12.8023911
+537,Bavorov,1572,35,okres Strakonice,49.1218443,14.0789263
+538,Bystré,1540,14,okres Svitavy,49.6282564,16.3469811
+539,Mýto,1538,17,okres Rokycany,49.7889973,13.7346533
+540,Všeruby,1493,23,okres Plzeň-sever,49.3407171,12.9832309
+541,Lázně Kynžvart,1474,32,okres Cheb,50.0091635,12.6256333
+542,Kožlany,1451,29,okres Plzeň-sever,49.9938908,13.5410653
+543,Husinec,1451,10,okres Prachatice,50.1737416,14.3750778
+544,Kašperské Hory,1449,44,okres Klatovy,49.1434723,13.5560577
+545,Mšeno,1431,26,okres Mělník,50.4381922,14.6326066
+546,Strmilov,1425,30,okres Jindřichův Hradec,49.1584643,15.1993375
+547,Harrachov,1421,36,okres Semily,50.7720087,15.4315431
+548,Strážov,1417,35,okres Klatovy,49.3034789,13.2483379
+549,Svratka,1403,14,okres Žďár nad Sázavou,49.7111798,16.0315815
+550,Trhový Štěpánov,1387,28,okres Benešov,49.7116864,15.0135299
+551,Chřibská,1349,15,okres Děčín,50.863242,14.48297
+552,Hostouň,1325,38,okres Domažlice,49.5597086,12.771467
+553,Habry,1317,27,okres Havlíčkův Brod,49.756027,15.4848587
+554,Železnice,1303,13,okres Jičín,50.4730968,15.3847325
+555,Brandýs nad Orlicí,1303,4,okres Ústí nad Orlicí,50.0019438,16.285279
+556,Kasejovice,1292,34,okres Plzeň-jih,49.4626974,13.7405997
+557,Vysoké nad Jizerou,1290,20,okres Semily,50.6855879,15.4015246
+558,Vidnava,1282,4,okres Jeseník,50.372434,17.1861229
+559,Rovensko pod Troskami,1277,12,okres Semily,50.5318818,15.2664338
+560,Pilníkov,1269,16,okres Trutnov,50.5327407,15.8201467
+561,Sedlice,1252,30,okres Strakonice,49.3768585,13.9394057
+562,Žulová,1247,14,okres Jeseník,50.3092956,17.0982234
+563,Mirotice,1222,25,okres Písek,49.4290263,14.0368614
+564,Úsov,1183,9,okres Šumperk,49.7983079,17.0105488
+565,Potštát,1179,34,okres Přerov,49.6371952,17.6516964
+566,Nalžovské Hory,1172,51,okres Klatovy,49.3335778,13.5496097
+567,Jevišovice,1168,7,okres Znojmo,48.9874765,15.9896915
+568,Verneřice,1158,31,okres Děčín,50.6611409,14.3011435
+569,Černošín,1150,42,okres Tachov,49.8162537,12.8838251
+570,Měčín,1145,38,okres Klatovy,49.4800853,13.402886
+571,Manětín,1142,84,okres Plzeň-sever,49.9917746,13.2331924
+572,Špindlerův Mlýn,1119,76,okres Trutnov,50.7256448,15.6067567
+573,Osečná,1116,28,okres Liberec,50.6948889,14.9213752
+574,Krásná Hora nad Vltavou,1107,36,okres Příbram,49.6046057,14.2774188
+575,Liběchov,1083,11,okres Mělník,50.4078364,14.4467459
+576,Červená Řečice,1003,26,okres Pelhřimov,49.5112314,15.1783645
+577,Blšany,999,36,okres Louny,50.2173339,13.4712007
+578,Bělčice,981,34,okres Strakonice,49.50241,13.87575
+579,Abertamy,975,8,okres Karlovy Vary,50.3687443,12.8182601
+580,Hartmanice,974,62,okres Klatovy,49.625229,16.3729273
+581,Bezdružice,951,32,okres Tachov,49.907242,12.9711049
+582,Bečov nad Teplou,934,19,okres Karlovy Vary,50.0834498,12.838314
+583,Miletín,912,8,okres Jičín,50.4040885,15.6822852
+584,Vysoké Veselí,865,9,okres Jičín,50.3309561,15.4363146
+585,Stráž nad Nežárkou,862,36,okres Jindřichův Hradec,49.0697105,14.9055137
+586,Deštná,749,12,okres Jindřichův Hradec,49.2651331,14.9239558
+587,Krásno,709,25,okres Sokolov,50.1091787,12.7863069
+588,Janské Lázně,699,13,okres Trutnov,50.6313766,15.7818364
+589,Pec pod Sněžkou,657,52,okres Trutnov,50.6935744,15.7335607
+590,Lipnice nad Sázavou,654,11,okres Havlíčkův Brod,49.6130233,15.4135596
+591,Stárkov,644,16,okres Náchod,50.533924,16.1581733
+592,Chyše,579,28,okres Karlovy Vary,50.1046274,13.2490662
+593,Mašťov,570,23,okres Chomutov,50.262274,13.2804584
+594,Ledvice,544,4,okres Teplice,50.5850123,13.7720256
+595,Rabí,503,14,okres Klatovy,49.2809304,13.6188949
+596,Úterý,470,25,okres Plzeň-sever,49.9400702,13.0041771
+597,Hora Svaté Kateřiny,453,18,okres Most,50.6062324,13.4369475
+598,Horní Blatná,412,5,okres Karlovy Vary,50.3902893,12.7702188
+599,Krásné Údolí,400,9,okres Karlovy Vary,50.0723378,12.9212366
+600,Výsluní,373,30,okres Chomutov,50.4664819,13.2373954
+601,Rožmberk nad Vltavou,364,24,okres Český Krumlov,48.6545255,14.3656325
+602,Andělská Hora,357,15,okres Bruntál,50.0608138,17.3890959
+603,Janov,293,11,okres Bruntál,49.8407721,16.3852281
+604,Rejštejn,255,30,okres Klatovy,49.140531,13.5151685
+605,Boží Dar,253,37,okres Karlovy Vary,50.4097338,12.9244538
+606,Loučná pod Klínovcem,111,20,okres Chomutov,50.4188425,12.9814194
+607,Přebuz,73,29,okres Sokolov,50.3657774,12.6200389
