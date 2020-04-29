@@ -137,7 +137,7 @@ id,city,population,area,district,latitude,longitude
 136,Hlinsko,9677,24,okres Chrudim,49.7625672,15.907339
 137,Přelouč,9659,30,okres Pardubice,50.0401412,15.5603286
 138,Studénka,9536,30,okres Nový Jičín,49.7137494,18.0610845
-139,Jesenice,9448,17,okres Praha-západ,50.0984577,13.4717743
+139,Jesenice,9448,17,okres Praha-západ,49.9687565,14.5158132
 140,Nové Město nad Metují,9436,23,okres Náchod,50.3442064,16.1512997
 141,Králův Dvůr,9357,15,okres Beroun,49.9502063,14.0344556
 142,Tišnov,9257,17,okres Brno-venkov,49.348838,16.4244906
@@ -200,7 +200,7 @@ id,city,population,area,district,latitude,longitude
 199,Dobruška,6727,34,okres Rychnov nad Kněžnou,50.2921062,16.1605457
 200,Kravaře,6695,19,okres Opava,49.9321321,18.0044266
 201,Slavkov u Brna,6694,14,okres Vyškov,49.1535759,16.8763606
-202,Staré Město,6652,20,okres Uherské Hradiště,50.0842845,14.4178391
+202,Staré Město,6652,20,okres Uherské Hradiště,49.0756576,17.4391723
 203,Blatná,6583,43,okres Strakonice,49.425124,13.8825978
 204,Holice,6574,19,okres Pardubice,50.0662793,15.9858513
 205,Světlá nad Sázavou,6566,42,okres Havlíčkův Brod,49.6680082,15.403934
@@ -476,7 +476,7 @@ id,city,population,area,district,latitude,longitude
 475,Budyně nad Ohří,2175,33,okres Litoměřice,50.4042725,14.1259073
 476,Luby,2146,30,okres Cheb,50.2524788,12.4059461
 477,Veltrusy,2131,8,okres Mělník,50.2710734,14.3277379
-478,Hranice,2129,31,okres Cheb,49.548233,17.7346535
+478,Hranice,2129,31,okres Cheb,50.3045869,12.175772
 479,Ralsko,2117,170,okres Česká Lípa,50.5857728,14.8040625
 480,Horní Planá,2088,127,okres Český Krumlov,48.7673396,14.0321919
 481,Proseč,2084,34,okres Chrudim,49.8059194,16.1164891
@@ -515,7 +515,7 @@ id,city,population,area,district,latitude,longitude
 514,Bělá nad Radbuzou,1745,83,okres Domažlice,49.5911481,12.717606
 515,Černovice,1733,36,okres Pelhřimov,49.3725903,14.9599829
 516,Dolní Poustevna,1732,11,okres Děčín,50.9803948,14.2873374
-517,Staré Město,1726,86,okres Šumperk,50.0842845,14.4178391
+517,Staré Město,1726,86,okres Šumperk,50.1617351,16.9473409
 518,Dubá,1723,60,okres Česká Lípa,50.5403416,14.5402337
 519,Seč,1720,36,okres Chrudim,49.8473534,15.6571108
 520,Jesenice,1719,37,okres Rakovník,50.0984577,13.4717743
