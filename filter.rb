@@ -8,10 +8,10 @@ File.open('db.csv').each do |line|
   distance_from_hranice = distance_from_hranice.to_i
 
   if population >= 10_000
-    if distance_from_caslav <= 100
-      if distance_from_hranice <= 155
-        puts "\"#{city}\": [#{lat},#{lon}],"
-      end
+    if distance_from_caslav <= 100 && distance_from_hranice <= 155
+      puts "\"#{city}\": [\"red\",#{lat},#{lon}],"
+    else
+      puts "\"#{city}\": [\"blue\",#{lat},#{lon}],"
     end
   end
 end
