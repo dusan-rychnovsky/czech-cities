@@ -10,7 +10,7 @@ File.open('db.csv').each do |line|
   if population >= 10_000
     if distance_from_caslav <= 100
       if distance_from_hranice <= 155
-        puts "#{city},#{district},#{distance_from_hranice},#{distance_from_caslav}"
+        puts "\"#{city}\": [#{lat},#{lon}],"
       end
     end
   end

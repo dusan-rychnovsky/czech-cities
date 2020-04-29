@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<script src="https://api.mapy.cz/loader.js"></script>
+	<script>Loader.load()</script>
+</head>
+
+<body>
+	<div id="map" style="width:1200px; height:550px;"></div>
+	<script type="text/javascript">
+		var img = "https://api.mapy.cz/img/api/marker/drop-red.png";
+
+		var map = new SMap(JAK.gel("map"));
+		map.addControl(new SMap.Control.Sync());
+		map.addDefaultLayer(SMap.DEF_BASE).enable();
+		var mouse = new SMap.Control.Mouse(SMap.MOUSE_PAN | SMap.MOUSE_WHEEL | SMap.MOUSE_ZOOM);
+		map.addControl(mouse); 
+
+		var layer = new SMap.Layer.Marker();
+		map.addLayer(layer);
+		layer.enable();
+
+		var data = {
+			"Hradec Králové": [50.2094963,15.832719],
+			"Pardubice": [50.0385812,15.7791356],
+			"Třebíč": [49.2151907,15.8816091],
+			"Chrudim": [49.9511458,15.7947559],
+			"Žďár nad Sázavou": [49.5629014,15.9391924],
+			"Náchod": [50.4167811,16.1630918],
+			"Svitavy": [49.7562053,16.4688995],
+			"Ostrov": [49.9726044,16.0303268],
+			"Česká Třebová": [49.9021593,16.4472039],
+			"Ústí nad Orlicí": [49.9737051,16.3940676],
+			"Vysoké Mýto": [49.9534727,16.1616455],
+			"Velké Meziříčí": [49.3554996,16.0121507],
+			"Rychnov nad Kněžnou": [50.1631069,16.274837],
+			"Litomyšl": [49.8725491,16.3101243],
+			"Nové Město na Moravě": [49.5616916,16.0744185],
+			"Moravská Třebová": [49.7581979,16.6642129]
+		};
+
+		var coords = [];
+		for (var name in data) {
+			var c = SMap.Coords.fromWGS84(data[name][1], data[name][0]);
+			coords.push(c);
+			
+			layer.addMarker(
+				new SMap.Marker(c, null, {
+					url:img,
+					title:name,
+					anchor: {left:10, bottom: 1}
+				})
+			);
+		}
+
+		var zoom = map.computeCenterZoom(souradnice);
+		map.setCenterZoom(zoom[0], zoom[1]);   
+	</script>
+</body>
+</html>
