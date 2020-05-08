@@ -1,8 +1,10 @@
 require 'curb'
 require 'json'
 
-def fetch_gps_coords(city)
-  url = "https://nominatim.openstreetmap.org/search?format=json&country=czech%20republic&city=" + CGI.escape(city)
+def fetch_gps_coords(city, district)
+  city = CGI.escape(city)
+  district = CGI.escape(district)
+  url = "https://nominatim.openstreetmap.org/search?format=json&country=czech%20republic&county=#{district}&city=#{city}"
   # puts url
   response = Curl.get(url) do |req|
     req.headers['User-Agent'] = 'Dusan Rychnovsky'
@@ -23,14 +25,15 @@ def silent_retry_with_backoff
   raise "Maximum number of retries exceeded!"
 end
 
-File.open('db.csv').each do |line|
+puts "id,lat,lon"
+File.open('db-wiki.csv').each do |line|
   next if line.strip!.empty?
   id, city, population, area, district = line.split(',')
   next if id == "id"
 
   silent_retry_with_backoff do
-    lat, lon = fetch_gps_coords city
-    puts "#{line},#{lat},#{lon}"
+    lat, lon = fetch_gps_coords city, district
+    puts "#{id},#{lat},#{lon}"
   end
   
   sleep 3
