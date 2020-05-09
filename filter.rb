@@ -24,10 +24,11 @@ end
 
 distances_hranice = load_distances 'car-distances-hranice.csv'
 distances_caslav = load_distances 'car-distances-caslav.csv'
+distances_praha = load_distances 'car-distances-praha.csv'
 
 basic_info.each do |id, value|
   if value[:population] >= 10_000
-    if distances_hranice[id][:time] <= 2.5 && distances_caslav[id][:time] <= 2
+    if distances_hranice[id][:time] <= 2.5 && distances_caslav[id][:time] <= 2 && distances_praha[id][:time] <= 2
       puts "\"#{value[:city]}\": [\"red\",#{value[:lat]},#{value[:lon]}],"
     else
       puts "\"#{value[:city]}\": [\"blue\",#{value[:lat]},#{value[:lon]}],"
