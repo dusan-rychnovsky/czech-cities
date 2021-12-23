@@ -618,9 +618,9 @@
             [607,50.3657774,12.6200389]
         ];
 
-		//var hranice = SMap.Coords.fromWGS84(17.7346535, 49.548233);
-        // var caslav = SMap.Coords.fromWGS84(15.3913205, 49.9109171);
-        var praha = SMap.Coords.fromWGS84(14.4212535, 50.0874654);
+		// var hranice = SMap.Coords.fromWGS84(17.7346535, 49.548233);
+        var caslav = SMap.Coords.fromWGS84(15.3913205, 49.9109171);
+        // var praha = SMap.Coords.fromWGS84(14.4212535, 50.0874654);
 
 		function provideTextLinkFor(text) {
 			var file = window.URL.createObjectURL(new Blob([text], {type: 'text/plain'}));
@@ -644,7 +644,7 @@
             }
             var id = data[i][0];
             console.log(id);
-            var points = [ praha, SMap.Coords.fromWGS84(data[i][2], data[i][1]) ];
+            var points = [ caslav, SMap.Coords.fromWGS84(data[i][2], data[i][1]) ];
             new SMap.Route(points, function(route) {
                 var results = route.getResults();
                 var km = (results.length / 1000).toFixed(2);
